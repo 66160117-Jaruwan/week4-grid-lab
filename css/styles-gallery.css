@@ -64,8 +64,7 @@ body {
 
 
 
-/* สํ
-าหรับแท็บเล็ต */
+/* สําหรับแท็บเล็ต */
 @media (max-width: 768px) {
     .gallery {
         grid-template-columns: repeat(2, 1fr);
